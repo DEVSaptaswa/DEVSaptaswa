@@ -36,47 +36,27 @@ I'm a **Data Science undergraduate** with a dual focus on **mathematical foundat
 
 ## 🧠 Featured Projects
 
-### 🔵 [PeerLearn](https://github.com/DEVSaptaswa) — Collaborative Learning Platform
+### 🔵 [PeerLearn](https://github.com/DEVSaptaswa/PeerLearn) — Collaborative Learning Platform
 A full-stack platform built with **Django 5** and a hybrid storage strategy (MySQL + MongoDB + Redis). Replaced O(N) database polling with a **Redis Pub/Sub presence layer** for sub-50ms real-time status updates that scale flat with users.
 
 `Django 5` `MySQL` `MongoDB` `Redis` `Docker` `Bootstrap 5`
 
 ---
 
-### 🟢 [YOLO MLOps Pipeline](https://github.com/DEVSaptaswa) — Helmet Detection System
+### 🟢 [YOLO MLOps Pipeline](https://github.com/DEVSaptaswa/yolo-mlops-project) — Helmet Detection System
 End-to-end MLOps pipeline: data ingestion → YOLOv8 training → MLflow model registry → containerised **FastAPI inference** with Prometheus p50/p95 latency tracking and Grafana alerting on model drift.
 
 `YOLOv8` `FastAPI` `MLflow` `Prometheus` `Grafana` `Docker Compose`
 
 ---
 
-### 🟡 [Song Recommendation System](https://github.com/DEVSaptaswa) — Emotion-Driven
-Real-time facial emotion recognition using **OpenCV Haar cascade + Dlib landmark detection**; TensorFlow CNN quantised to INT8 for sub-100ms inference. Fuses facial emotion, self-reported mood, and live weather data for recommendations.
-
-`Python` `Django` `OpenCV` `TensorFlow` `HTML/CSS/JS`
-
----
-
-### 🔴 [Curve2Area](https://github.com/DEVSaptaswa) — Numerical Integration Explorer
-Implemented and benchmarked **Riemann, Composite Trapezoidal, and Simpson's 1/3 Rule** quadrature schemes — demonstrating O(h²) vs O(h⁴) error convergence across five test functions with interactive visualisation.
-
-`Python` `NumPy` `SciPy` `Matplotlib`
-
----
-
-### 🟣 [Flood Risk Prediction](https://github.com/DEVSaptaswa) — Ensemble ML
+### 🟣 [Flood Risk Prediction](https://github.com/DEVSaptaswa/Flood-Risk-Prediction-India) — Ensemble ML
 Compared 7 ML models (Random Forest, XGBoost, KNN, Stacking, AdaBoost, Soft Voting) on 10,000+ hydro-meteorological records. Selected **XGBoost** for class imbalance handling; Stacking Ensemble achieved highest disaster-risk recall.
 
 `Python` `Scikit-learn` `XGBoost` `Pandas` `Seaborn`
 
 ---
 
-### ⚪ [Semantic Diversity Analysis](https://github.com/DEVSaptaswa) — LLM Output Evaluation
-NLP pipeline using **Sentence Transformers (all-MiniLM-L6-v2, 384-dim)** and cosine similarity matrices to quantify redundancy and diversity in LLM outputs. Visualised via similarity heatmaps.
-
-`Python` `Sentence Transformers` `NumPy` `Seaborn`
-
----
 
 ## 🌱 Currently Exploring
 
